@@ -42,7 +42,6 @@
   border: 2px solid white;
   display: inline-block;
   padding: 15px 35px;
-  transition: color 0.2s;
   transition: background-color 0.2s;
 }
 
